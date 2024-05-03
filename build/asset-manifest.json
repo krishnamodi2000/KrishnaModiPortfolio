@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.e5368bc5.js",
+    "static/js/453.e998d2ee.chunk.js": "/static/js/453.e998d2ee.chunk.js",
+    "static/media/3639686_Freepik.png": "/static/media/3639686_Freepik.d0611ab1bc1c96017b73.png",
+    "static/media/skills.png": "/static/media/skills.48757e457a5fe3d902c2.png",
+    "static/media/3535777.jpg": "/static/media/3535777.a4e0c3b560d5e86ae398.jpg",
+    "static/media/logo.png": "/static/media/logo.e5a7028047e30208026f.png",
+    "static/media/MUJ_logo.jpeg": "/static/media/MUJ_logo.89fb7c98a59b9641f808.jpeg",
+    "static/media/DAL_logo.png": "/static/media/DAL_logo.ca73939f37256b23f6f9.png",
+    "index.html": "/index.html",
+    "main.e5368bc5.js.map": "/static/js/main.e5368bc5.js.map",
+    "453.e998d2ee.chunk.js.map": "/static/js/453.e998d2ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e5368bc5.js"
+  ]
+}
